@@ -1,0 +1,77 @@
+body
+{
+    top: 5px;
+    left: 5px;
+    width: device-width;
+}
+nav
+{
+    flex: 1;
+    text-align: right;
+}
+h1
+{
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+}
+p
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font: bold;
+    font-family: ubuntu;
+    color: #ffffff;
+}
+nav ul li
+{
+
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+.logo
+{
+ padding-top: 10px;
+}
+.first-sec
+{
+    width: 100%;
+    height: 100vh;
+    background-color:#2F4B4C;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+}
+
+.top
+{
+color: white;
+}
+.yellow
+{
+    color: #FFB800;
+}
+.half
+{  
+    padding-top: 100px;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    background-color:#2F4B4C;
+    height: 80vh;
+    width: 40%;
+    overflow: hidden;
+}
+.half img
+{
+    width: 100%;
+}
