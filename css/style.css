@@ -5,7 +5,6 @@
     font-family: 'Ubuntu', sans-serif;
 }h1{
     font-family: 'Anton', sans-serif;
-    line-height: ;
     padding-top: 30px;
 }
 .header_bg{
@@ -76,4 +75,14 @@ img {
 .para{
     padding-top: 30px;
     padding-bottom: 30px;
+}
+.mbl img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 100%;
+    width: 100%;
+}
+.rafi {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
 }
