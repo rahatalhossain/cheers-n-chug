@@ -3,9 +3,16 @@
     margin: 0;
     padding: 0;
     font-family: 'Ubuntu', sans-serif;
-}h1{
+}
+h1 {
     font-family: 'Anton', sans-serif;
     padding-top: 30px;
+}
+h3 {
+    font-family: 'Anton', sans-serif;
+    padding-top: 10px;
+    text-align: center;
+    justify-content: end;
 }
 .header_bg{
     background-color: #2F4B4C;
@@ -83,6 +90,14 @@ img {
     width: 100%;
 }
 .rafi {
-    background-image: url("images/background.png");
+    background-image: url("images/image_3.png");
+    background-color: whitesmoke;
     background-repeat: no-repeat;
+}
+.rafi img {
+    padding: 10%;
+}
+.mid img {
+    padding-top: 50px;
+    padding-bottom: 35px;
 }
